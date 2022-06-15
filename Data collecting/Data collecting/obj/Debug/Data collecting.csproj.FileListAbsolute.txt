@@ -1,0 +1,17 @@
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\bin\Debug\Data collecting.exe.config
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\bin\Debug\Data collecting.exe
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\bin\Debug\Data collecting.pdb
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\obj\Debug\Data collecting.csproj.AssemblyReference.cache
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\obj\Debug\Data_collecting.Collector.resources
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\obj\Debug\Data_collecting.Properties.Resources.resources
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\obj\Debug\Data collecting.csproj.GenerateResource.cache
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\obj\Debug\Data collecting.csproj.CoreCompileInputs.cache
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\obj\Debug\Data collecting.exe
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\obj\Debug\Data collecting.pdb
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\bin\Debug\NModbus.dll
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\bin\Debug\NModbus.Serial.dll
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\bin\Debug\NModbus.xml
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\bin\Debug\NModbus.Serial.xml
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\obj\Debug\Data collecting.csproj.CopyComplete
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\bin\Debug\CollectorDB.mdf
+C:\Users\плак\Desktop\ТурбулентдностьДОН\Data collecting\Data collecting\bin\Debug\CollectorDB_log.ldf
